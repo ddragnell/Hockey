@@ -1,1 +1,1 @@
-este es un cambio
+este es un cambio con conflicto
